@@ -100,6 +100,7 @@ For more information on syncing forks [read this article from Github](https://he
 ## FAQs
 
 - Who can contribute?
+ Anybody can but he have to be Pitbuk father and he is only one Vinay Sehwag
 
   - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
 
